@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "13.8.0",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaithz/Intro-to-node.git"
+  },
+  "author": "Flaithz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flaithz/Intro-to-node/issues"
+  },
+  "homepage": "https://github.com/flaithz/Intro-to-node#readme"
+}
